@@ -2,7 +2,7 @@
 .menu-mobile{	
 	padding:5px;
 	min-height:40px;
-	color:#F6B95A;
+	color:#eee;
 	background-color:#000;
     
     width:180px;
@@ -14,7 +14,7 @@
 
 .menu-icon-bars{ height:22px; position:absolute; top:5px; right:10px;}
 
-.icon-bar {margin-top:6px; width:26px; height:2px; border-radius:1px; border:0px solid #F6B95A; background-color:#F6B95A;}
+.icon-bar {margin-top:6px; width:26px; height:2px; border-radius:1px; border:0px solid #F6B95A; background-color:#eee;}
 
 .menu-body{
 	margin-top:50px; color:#fff;
