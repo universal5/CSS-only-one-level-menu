@@ -14,7 +14,7 @@ body{ 	background-color:#888;
 p {	padding:0px;}
 
 .PageWrap{
-	background-color: #abf;
+	background-color: #e8f8ff;
 	height:inherit;	
 }
 
@@ -37,7 +37,7 @@ p {	padding:0px;}
 	display:table-cell; border:0px solid red; vertical-align:bottom;
 }
 
-.HeaderRight h1{color:#abf; 			
+.HeaderRight h1{color:#e8f8ff; 			
 		font-size: 55px;
 		border: 0px solid blue;
 		margin:0; 
